@@ -1,0 +1,12 @@
+#seconds {
+  stroke-opacity:0.02;
+}
+
+#hour{
+  stroke-opacity:0.03;
+  shape-opacity:1;
+}
+
+#minute{
+  stroke-opacity:0.02;
+}
